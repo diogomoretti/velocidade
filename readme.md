@@ -1,4 +1,4 @@
-# velocidade [![Build Status](https://travis-ci.org/diogomoretti/velocidade.svg?branch=master)](https://travis-ci.org/diogomoretti/velocidade)
+# velocidade [![Travis](https://img.shields.io/travis/diogomoretti/velocidade.svg?style=flat-square)](https://travis-ci.org/diogomoretti/velocidade)
 
 > Internet speed checker for brazilian people
 
