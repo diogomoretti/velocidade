@@ -5,7 +5,7 @@
 ## Install
 
 ```
-$ npm install -g velocidade
+$ [sudo] npm install -g velocidade
 ```
 
 ## Usage
