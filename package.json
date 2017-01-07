@@ -29,7 +29,7 @@
     "chalk": "^1.1.3",
     "meow": "^3.7.0",
     "ora": "^0.4.0",
-    "speedtest-net": "^1.2.11",
+    "speedtest-net": "^1.2.12",
     "standard": "^8.6.0"
   }
 }
