@@ -1,6 +1,6 @@
 {
   "name": "velocidade",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Internet speed checker for brazilian people",
   "license": "MIT",
   "repository": "diogomoretti/velocidade",
