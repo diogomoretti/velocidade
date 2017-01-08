@@ -2,6 +2,8 @@
 
 > Internet speed checker for brazilian people
 
+![Demo](https://cloud.githubusercontent.com/assets/2853428/21752002/be094604-d5b7-11e6-80da-5ac79b42f2b6.gif)
+
 ## Install
 
 ```
