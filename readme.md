@@ -1,4 +1,4 @@
-# velocidade [![Travis](https://img.shields.io/travis/diogomoretti/velocidade.svg?style=flat-square)](https://travis-ci.org/diogomoretti/velocidade) [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com)
+# velocidade [![Travis](https://img.shields.io/travis/diogomoretti/velocidade.svg?style=flat-square)](https://travis-ci.org/diogomoretti/velocidade) [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com) [![npm](https://img.shields.io/npm/v/velocidade.svg?style=flat-square)](https://www.npmjs.com/package/velocidade)
 
 > Internet speed checker for brazilian people
 
