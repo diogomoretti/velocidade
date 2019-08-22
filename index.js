@@ -7,7 +7,7 @@ const ora = require('ora')
 const colorLabel = chalk.gray.bold
 
 const spinner = ora({
-  text: 'Verificando sua conexão de internet...',
+  text: 'Verificando sua conexão de internet...!!!!!',
   color: 'yellow'
 })
 
@@ -20,8 +20,9 @@ module.exports = () => {
     console.log(`
   ${chalk.green.bold('⬇')} ${colorLabel('Download')} ${data.speeds.download} Mbps
   ${chalk.blue.bold('⬆')} ${colorLabel('Upload')} ${data.speeds.upload} Mbps
-  ${chalk.cyan.bold('◉')} ${colorLabel('Operadora')} ${data.client.isp}
-    `)
+  ${chalk.magenta.bold('◆')} ${colorLabel('Operadora')} ${data.client.isp}`)
+
+    process.exit()
   })
 
   test.on('error', () => {
