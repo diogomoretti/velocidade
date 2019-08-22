@@ -7,7 +7,7 @@ const ora = require('ora')
 const colorLabel = chalk.gray.bold
 
 const spinner = ora({
-  text: 'Verificando sua conexão de internet...!!!!!',
+  text: 'Verificando sua conexão de internet...',
   color: 'yellow'
 })
 
