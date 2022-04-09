@@ -6,13 +6,21 @@
 
 ## Install
 
+#### ↳ Using NPX
+
+```
+$ npx velocidade
+```
+
+#### ↳ Installing globally (recommended)
+
 ```
 $ [sudo] npm install -g velocidade
 ```
 
 ## Usage
 
-Just type:
+After installing globally, just type:
 
 ```
 $ velocidade
